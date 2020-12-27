@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  color: orange;
+  text-align: center;
+  margin-top: 2%;
+}
+hr{
+  color: #003050;
+  width: 60%;
+  position: relative;
+  left: 20%;
+  border-style: solid;
+  border-width: medium;
+}
+body{
+  background-color: #303030;
+}
+.login{
+  text-align: center;
+  margin-top: 5%;
+  height: 50%;
+}
+.login #uname{
+  width: 12%;
+  text-align: center;
+  color: #33c1ff;
+  background-color: #003050;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.login #uname:hover{
+  border-color: white;
+}
+.login #upassword{
+  width: 12%;
+  text-align: center;
+  color: #33c1ff;
+  background-color: #003050;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.login #upassword:hover{
+  border-color: white;
+}
+.login #ulogin{
+  width: 10%;
+  text-align: center;
+  color: #33c1ff;
+  background-color: #003050;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.login #ulogin:hover{
+  color: #003050;
+  background-color: #33c1ff;
+}
+.alert p{
+  color: orange;
+  text-decoration: bold;
+  text-align: center;
+}
+.newUser{
+  text-align: center;
+}
+.newUserData input{
+  width: 12%;
+  text-align: center;
+  color: #33c1ff;
+  background-color: #003050;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.newUserData input:hover{
+  color: #003050;
+  background-color: #33c1ff;
+}

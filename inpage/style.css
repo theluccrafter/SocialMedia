@@ -1,0 +1,148 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #303030;
+}
+h1{
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 4%;
+  color: orange;
+}
+.headline{
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #400002;
+}
+nav{
+  text-align: center;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #33c1ff;
+  padding: 4px 8px 4px 8px;
+  border-style: solid;
+  background-color: #003050;
+}
+nav ul li p{
+  color: #33c1ff;
+  font-size: 30px;
+}
+.main{
+  margin-top: 5%;
+}
+#mainframe{
+
+}
+#search{
+  margin: 0 auto;
+  text-align: center;
+}
+#searchbutton{
+  width: 10%;
+  text-align: center;
+  color: #33c1ff;
+  background-color: #003050;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#searchbutton:hover{
+  color: #003050;
+  background-color: #33c1ff;
+}
+#searchtext{
+  width: 12%;
+  text-align: center;
+  color: #33c1ff;
+  background-color: #003050;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 15px;
+  margin-right: 1%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+#searchtext:hover{
+  border-color: white;
+}
+.searchbar{
+  float: center;
+  align-self: center;
+  align-content: center;
+  align-items: center;
+  margin-left: 46%;
+}
+hr{
+  color: cyan;
+  float: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+h2{
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+img{
+  width: 10%;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.about{
+  width: 85%;
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+.about p{
+  color: white;
+  font-size: 20px;
+}
+.socialMedia{
+  width: 85%;
+  float: right;
+}
+.socialMedia p{
+  color: white;
+  font-size: 20px;
+}
+h3{
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+h3 a{
+  color: orange;
+  text-decoration: none;
+}
+
+/* Container Stars */
+
+.montanablack {
+  display: block;
+}
+.mainframe{
+  height: 600vh;
+}
